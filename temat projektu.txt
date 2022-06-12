@@ -1,0 +1,4 @@
+Las losowy w zadaniu klasyfikacji. Podczas budowy każdego z drzew testy (z pełnego zbioru testów)
+wybieramy za pomocą selekcji progowej w połączeniu z turniejem, czyli odrzucamy część najgorszych, 
+po czym wśród pozostałych wybieramy losowo 2 testy, liczymy ich jakość, stosujemy ten z wyższą jakością.
+ 
